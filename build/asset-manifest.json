@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React-FAQ/static/css/main.fb167eab.css",
+    "main.js": "/React-FAQ/static/js/main.a7179579.js",
+    "static/media/background-pattern-mobile.svg": "/React-FAQ/static/media/background-pattern-mobile.bbadbddabee663bba888.svg",
+    "static/media/background-pattern-desktop.svg": "/React-FAQ/static/media/background-pattern-desktop.621478cf83f8150af604.svg",
+    "index.html": "/React-FAQ/index.html",
+    "static/media/icon-star.svg": "/React-FAQ/static/media/icon-star.189fd38b8aefdc8fbe0d.svg",
+    "static/media/icon-plus.svg": "/React-FAQ/static/media/icon-plus.6c5381bcc9a768ea5c3683e11c6bfd6c.svg",
+    "static/media/icon-minus.svg": "/React-FAQ/static/media/icon-minus.5575b6de09a1e0deab1dd585ada35f31.svg",
+    "main.fb167eab.css.map": "/React-FAQ/static/css/main.fb167eab.css.map",
+    "main.a7179579.js.map": "/React-FAQ/static/js/main.a7179579.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb167eab.css",
+    "static/js/main.a7179579.js"
+  ]
+}
